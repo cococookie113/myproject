@@ -10,5 +10,5 @@ func init() {
 }
 
 func hi {
-	fmt.Prinln("hi")
+	fmt.Println("hi")
 }
