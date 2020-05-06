@@ -1,4 +1,4 @@
-package main
+package github.com/coocookie113/myproject
 
 import "fmt"
 
