@@ -1,11 +1,14 @@
-package main
+package myproject
 
 import "fmt"
 
-func main() {
-<<<<<<< Updated upstream
-	fmt.Println("hellow world")
-=======
+func init() {
+
+
 	fmt.Println("hello world")
->>>>>>> Stashed changes
+
+}
+
+func hi {
+	fmt.Prinln("hi")
 }
