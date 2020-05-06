@@ -1,4 +1,4 @@
-package github.com/coocookie113/myproject/yeah
+package github.com/cococookie113/myproject/yeah
 
 import "fmt"
 
